@@ -33,5 +33,4 @@ This application is a modern clock displaying the date above the time. Optional 
 - Fully self-contained; no external images or libraries required.
 - Best visual experience with Anton font installed.
 
-## Contact
-For any questions or feedback: [a.scarpetta05@gmail.com](mailto:a.scarpetta05@gmail.com)
+
